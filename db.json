@@ -42,9 +42,27 @@
     }
   ],
   "users":[
-    
+    {
+      "username": "Ravikiran",
+      "email": "rkv@gmail.com",
+      "password": "1996",
+      "avatar": "https://img.freepik.com/free-psd/3d-render-avatar-character_23-2150611728.jpg?size=626&ext=jpg&ga=GA1.2.1371444859.1678761522&semt=sph",
+      "id": 1
+    }
   ],
   "forum":[
-   
+    {
+      "userAvatar": "https://img.freepik.com/free-psd/3d-render-avatar-character_23-2150611728.jpg?size=626&ext=jpg&ga=GA1.2.1371444859.1678761522&semt=sph",
+      "username": "Ravikiran",
+      "questionTitle": "How do I remove a property from a JavaScript object?",
+      "questionDescription": "Objects in JavaScript can be thought of as maps between keys and values. The delete operator is used to remove these keys, more commonly known as object properties, one at a time.",
+      "language": "Javascript",
+      "upvotes": 0,
+      "answers": [
+        
+      ],
+      "postedDate": "2023-08-17T18:23",
+      "id": 1
+    }
   ]
 }
